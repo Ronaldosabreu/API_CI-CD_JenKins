@@ -1,0 +1,13 @@
+pipeline{
+    agent any
+    
+    stages{
+        stage('Inicial')
+        {
+            steps
+			{
+                echo 'Teste de pepilene'
+            }
+        }
+    }
+ }
