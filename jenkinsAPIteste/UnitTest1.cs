@@ -7,14 +7,16 @@ namespace jenkinsAPIteste
     [SetUp]
     public void Setup()
     {
-      ted
+
     }
 
     [Test]
     public void Test1()
     {
-    ted
-      Assert.Pass();
+      object a = "a";
+      object b = "b";
+
+      Assert.AreSame(a, b);
     }
   }
 }
