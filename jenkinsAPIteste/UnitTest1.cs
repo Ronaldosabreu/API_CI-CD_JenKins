@@ -7,6 +7,7 @@ namespace jenkinsAPIteste
     [SetUp]
     public void Setup()
     {
+      ted
     }
 
     [Test]
