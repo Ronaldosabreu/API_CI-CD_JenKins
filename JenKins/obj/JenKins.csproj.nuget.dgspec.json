@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\JenKins\\JenKins.csproj": {}
+    "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\jenkins\\JenKins.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\JenKins\\JenKins.csproj": {
+    "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\jenkins\\JenKins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\JenKins\\JenKins.csproj",
+        "projectUniqueName": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\jenkins\\JenKins.csproj",
         "projectName": "JenKins",
-        "projectPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\JenKins\\JenKins.csproj",
+        "projectPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\jenkins\\JenKins.csproj",
         "packagesPath": "C:\\Users\\ronaldo.abreu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\JenKins\\obj\\",
+        "outputPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\jenkins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

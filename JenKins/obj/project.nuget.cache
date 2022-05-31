@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUMcFpEHS8adHSlXYMIwJDhF2EKHuUNIzkVec5JbVPlDvphNT1qZYQBYw3NNwMZLyMGpcavkp7+LdoHRhy8LhQ==",
+  "dgSpecHash": "hBnAJH0g2eYBkG82LazKxTAjHDIXeTilSV4HM/hPfrUsW7qrDV4BmKru8J3g7reB8kdz5IRZH0gULPwy5WYV5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\JenKins\\JenKins.csproj",
+  "projectFilePath": "C:\\Users\\ronaldo.abreu\\Desktop\\Area de Trabalho 2021\\Ronaldo_Estudos\\JenKins\\API\\JenKins\\jenkins\\JenKins.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronaldo.abreu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ronaldo.abreu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
