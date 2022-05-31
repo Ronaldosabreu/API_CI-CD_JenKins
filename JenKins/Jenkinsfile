@@ -13,14 +13,14 @@ pipeline{
         {
             steps
 			{
-                bat "dotnet build jenkins --configuration Release"
+                bat "dotnet build --project jenkins --configuration Release"
             }
         }
          stage('Build Test')
         {
             steps
 			{
-                bat "dotnet build jenkinsAPIteste --configuration Release"
+                bat "dotnet build --project jenkinsAPIteste --configuration Release"
             }
         }
     }
