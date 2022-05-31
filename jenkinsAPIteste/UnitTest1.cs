@@ -14,7 +14,7 @@ namespace jenkinsAPIteste
     public void Test1()
     {
       object a = "a";
-      object b = "b";
+      object b = "a";
 
       Assert.AreSame(a, b);
     }
