@@ -20,7 +20,14 @@ pipeline{
         {
             steps
 			{
-                bat "dotnet build jenkinsAPIteste --configuration Release"
+                bat "dotnet test jenkinsAPIteste"
+            }
+        }
+		 stage('Run')
+        {
+            steps
+			{
+                bat "dotnet run --project jenkins"
             }
         }
     }
